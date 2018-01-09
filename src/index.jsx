@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { AppContainer } from "react-hot-loader";
-import Routes from "./routes";
 import App from "./app";
 
 ReactDOM.render(<App />, document.getElementById("app"));
